@@ -1,6 +1,6 @@
 <!-- Banner / Header -->
 <div align="center">
-  <img width="40%" src="https://images7.alphacoders.com/135/1351761.png" alt="banner"/>
+  <img width="40%" src="[https://images7.alphacoders.com/135/1351761.png](https://wallpapercat.com/w/full/c/7/e/5823589-2920x1640-desktop-hd-boy-programmer-wallpaper-image.jpg)" alt="banner"/>
 </div>
 <!-- Typing Animation Header -->
 <h1 align="center">
