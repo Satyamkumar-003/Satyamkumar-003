@@ -1,9 +1,15 @@
+<body>
 <!-- Banner / Header -->
 <div align="center">
-  <img width="60%" src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?w=1200&q=80" alt="banner"/>
+  <img width="60%" src="https://images7.alphacoders.com/135/1351761.png" alt="banner"/>
 </div>
+<!-- Typing Animation Header -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=✨+Hey%2C+I'm+Satyam+Kumar+👋;🚀+Full-Stack+Developer+|+MERN;💡+AI+Tools+Enthusiast" alt="Typing SVG" />
+  </a>
+</h1>
 
-<h1 align="center">✨ Hey, I'm <span style="color:#00d9ff">Satyam Kumar</span> 👋</h1>
 <h2 align="center">🚀 Full-Stack Developer | MERN | Frontend Lover | Problem Solver</h2>
 
 <br/>
@@ -43,6 +49,13 @@
   
   <p><strong>Tools</strong></p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify" height="45"/>
+<img src="https://skillicons.dev/icons?i=vercel,netlify" height="45"/>
+<br/>
+<img src="https://img.shields.io/badge/Render-0466C8?style=for-the-badge&logo=render&logoColor=white">
+<img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white">
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white">
+<img src="https://img.shields.io/badge/Claude-111827?style=for-the-badge&logo=anthropic&logoColor=white">
+
 </div>
 
 <br/>
