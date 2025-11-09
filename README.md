@@ -1,7 +1,6 @@
-<body>
 <!-- Banner / Header -->
 <div align="center">
-  <img width="60%" src="https://images7.alphacoders.com/135/1351761.png" alt="banner"/>
+  <img width="40%" src="https://images7.alphacoders.com/135/1351761.png" alt="banner"/>
 </div>
 <!-- Typing Animation Header -->
 <h1 align="center">
@@ -35,57 +34,59 @@
 
 <br/>
 
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
+<h2 align="center">🛠️ My Tech Stack 🛠️</h2>
+<p align="center">
+
+  <!-- Frontend -->
+  <!-- <strong>Frontend</strong><br/> -->
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React.js">
+  <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+  
+  
+
+  <!-- Backend -->
+  <!-- <strong>Backend</strong><br/> -->
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=white" alt="Express.js">
+  
+  <!-- <br/><br/> -->
+
+  <!-- Database -->
+  <!-- <strong>Database</strong><br/> -->
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+  
+  <!-- <br/><br/> -->
+
+  <!-- Tools -->
+  <!-- <strong>Tools</strong><br/> -->
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman">
+  
+  <!-- <br/><br/> -->
+
+  <!-- Deployment & AI Tools -->
+  <!-- <strong>Deployments & AI Tools</strong><br/> -->
+  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify">
+  <img src="https://img.shields.io/badge/Render-0466C8?style=flat-square&logo=render&logoColor=white" alt="Render">
+  <br/><br/>
+  <img src="https://img.shields.io/badge/ChatGPT-10a37f?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT">
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini">
+  <img src="https://img.shields.io/badge/Claude-4E8DF4?style=flat-square&logo=anthropic&logoColor=white" alt="Claude">
+
+</p>
+
+
 
 <div align="center">
-  <p><strong>Frontend</strong></p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" height="45"/>
-  
-  <p><strong>Backend</strong></p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" height="45"/>
-  
-  <p><strong>Database</strong></p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="45"/>
-  
-  <p><strong>Tools</strong></p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify" height="45"/>
-<img src="https://skillicons.dev/icons?i=vercel,netlify" height="45"/>
-<br/>
-<img src="https://img.shields.io/badge/Render-0466C8?style=for-the-badge&logo=render&logoColor=white">
-<img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white">
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white">
-<img src="https://img.shields.io/badge/Claude-111827?style=for-the-badge&logo=anthropic&logoColor=white">
 
-</div>
-
-<br/>
-
-<h2 align="center">📌 Featured Projects</h2>
-
-<div align="center">
-<div align="center">
-
-<table style="border: 2px solid #00d9ff; border-collapse: collapse; text-align: center;">
-  <tr style="border: 2px solid #00d9ff;">
-    <th style="border: 2px solid #00d9ff; padding: 8px;">Project</th>
-    <th style="border: 2px solid #00d9ff; padding: 8px;">Description</th>
-    <th style="border: 2px solid #00d9ff; padding: 8px;">Tech</th>
-  </tr>
-  <tr style="border: 2px solid #00d9ff;">
-    <td style="border: 2px solid #00d9ff; padding: 8px;">🔥 Service Provider App</td>
-    <td style="border: 2px solid #00d9ff; padding: 8px;">Home services finder</td>
-    <td style="border: 2px solid #00d9ff; padding: 8px;">MERN</td>
-  </tr>
-  <tr style="border: 2px solid #00d9ff;">
-    <td style="border: 2px solid #00d9ff; padding: 8px;">🍔 Food Ordering System</td>
-    <td style="border: 2px solid #00d9ff; padding: 8px;">Cart + JWT + Auth</td>
-    <td style="border: 2px solid #00d9ff; padding: 8px;">MERN</td>
-  </tr>
-  
-</table>
-
-<p>🔗 Explore more projects → <a href="https://satyamkumarprofile.netlify.app/">Click Here</a></p>
-</div>
 
 
 <br/>
